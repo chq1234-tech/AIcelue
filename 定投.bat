@@ -1,0 +1,1 @@
+python.exe dca_main.py run

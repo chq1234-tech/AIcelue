@@ -1,0 +1,66 @@
+{
+  "history": [
+    {
+      "date": "2026-07-04",
+      "time": "11:47:13",
+      "stop_profit_trades": [
+        {
+          "success": true,
+          "code": "512760",
+          "name": "芯片ETF",
+          "type": "stop_profit",
+          "price": 1.403,
+          "shares": 600,
+          "trade_amount": 841.8,
+          "commission": 0.2,
+          "total_cost": 842.0,
+          "net_amount": 841.6,
+          "profit_pct": 28.77,
+          "profit_amount": 188.07,
+          "remaining_shares": 0,
+          "timestamp": "2026-07-04 11:47:13",
+          "note": "止盈卖出（盈利28.77%）",
+          "planned_amount": 841.6
+        }
+      ],
+      "reinvest_trades": [
+        {
+          "success": true,
+          "code": "512010",
+          "name": "医药ETF",
+          "type": "reinvest",
+          "price": 0.363,
+          "shares": 500,
+          "trade_amount": 181.5,
+          "commission": 0.2,
+          "total_cost": 181.7,
+          "planned_amount": 210.4,
+          "reason": "低配类别·行业（偏差-16.26%）",
+          "timestamp": "2026-07-04 11:47:13",
+          "note": "止盈再投·低配类别·行业（偏差-16.26%）"
+        },
+        {
+          "success": true,
+          "code": "515080",
+          "name": "中证红利ETF",
+          "type": "reinvest",
+          "price": 1.464,
+          "shares": 100,
+          "trade_amount": 146.4,
+          "commission": 0.2,
+          "total_cost": 146.6,
+          "planned_amount": 168.32,
+          "reason": "低配类别·红利（偏差-10.39%）",
+          "timestamp": "2026-07-04 11:47:13",
+          "note": "止盈再投·低配类别·红利（偏差-10.39%）"
+        }
+      ],
+      "total_freed": 841.6,
+      "total_reinvested": 327.9
+    }
+  ],
+  "frozen_etfs": {
+    "512760": "2026-08-03"
+  },
+  "last_updated": "2026-07-04 11:47:13"
+}

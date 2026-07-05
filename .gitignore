@@ -1,0 +1,17 @@
+# Data files
+dca_portfolio_data.json
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Reports
+*.html
+report.json
+trade_data.json
+
+# OS
+.DS_Store
+Thumbs.db

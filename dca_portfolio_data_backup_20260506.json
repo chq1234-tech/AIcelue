@@ -1,0 +1,140 @@
+{
+  "holdings": {
+    "515080": {
+      "shares": 300,
+      "avg_cost": 1.6302,
+      "total_cost": 489.05,
+      "name": "中证红利ETF",
+      "category": "红利"
+    },
+    "510300": {
+      "shares": 100,
+      "avg_cost": 4.9005,
+      "total_cost": 490.05,
+      "name": "沪深300ETF",
+      "category": "宽基"
+    },
+    "510500": {
+      "shares": 0,
+      "avg_cost": 0,
+      "total_cost": 0,
+      "name": "中证500ETF",
+      "category": "宽基"
+    },
+    "512760": {
+      "shares": 300,
+      "avg_cost": 1.0731,
+      "total_cost": 321.93,
+      "name": "芯片ETF",
+      "category": "行业"
+    },
+    "512010": {
+      "shares": 1100,
+      "avg_cost": 0.3736,
+      "total_cost": 410.94,
+      "name": "医药ETF",
+      "category": "行业"
+    },
+    "513100": {
+      "shares": 100,
+      "avg_cost": 2.0082,
+      "total_cost": 200.82,
+      "name": "纳指ETF",
+      "category": "海外"
+    }
+  },
+  "trade_history": [
+    {
+      "success": true,
+      "code": "515080",
+      "name": "中证红利ETF",
+      "category": "红利",
+      "price": 1.63,
+      "date": "2026-05-06",
+      "shares": 300,
+      "trade_amount": 489.0,
+      "commission": 0.05,
+      "total_cost": 489.05,
+      "planned_amount": 600,
+      "actual_amount": 489.0,
+      "timestamp": "2026-05-06 10:31:09"
+    },
+    {
+      "success": true,
+      "code": "510300",
+      "name": "沪深300ETF",
+      "category": "宽基",
+      "price": 4.9,
+      "date": "2026-05-06",
+      "shares": 100,
+      "trade_amount": 490.0,
+      "commission": 0.05,
+      "total_cost": 490.05,
+      "planned_amount": 600,
+      "actual_amount": 490.0,
+      "timestamp": "2026-05-06 10:31:09"
+    },
+    {
+      "success": true,
+      "code": "512760",
+      "name": "芯片ETF",
+      "category": "行业",
+      "price": 1.073,
+      "date": "2026-05-06",
+      "shares": 300,
+      "trade_amount": 321.9,
+      "commission": 0.03,
+      "total_cost": 321.93,
+      "planned_amount": 400,
+      "actual_amount": 321.9,
+      "timestamp": "2026-05-06 10:31:15"
+    },
+    {
+      "success": true,
+      "code": "512010",
+      "name": "医药ETF",
+      "category": "行业",
+      "price": 0.369,
+      "date": "2026-05-06",
+      "shares": 1000,
+      "trade_amount": 369.0,
+      "commission": 0.04,
+      "total_cost": 369.04,
+      "planned_amount": 400,
+      "actual_amount": 369.0,
+      "timestamp": "2026-05-06 10:31:21"
+    },
+    {
+      "success": true,
+      "code": "513100",
+      "name": "纳指ETF",
+      "category": "海外",
+      "price": 2.008,
+      "date": "2026-05-06",
+      "shares": 100,
+      "trade_amount": 200.8,
+      "commission": 0.02,
+      "total_cost": 200.82,
+      "planned_amount": 400,
+      "actual_amount": 200.8,
+      "timestamp": "2026-05-06 10:31:22"
+    },
+    {
+      "success": true,
+      "code": "512010",
+      "name": "医药ETF",
+      "price": 0.369,
+      "shares": 100,
+      "trade_amount": 36.9,
+      "commission": 5,
+      "total_cost": 41.9,
+      "planned_amount": 66.14,
+      "timestamp": "2026-05-06 10:31:44",
+      "note": "现金余额再投"
+    }
+  ],
+  "cash_balance": 1087.21,
+  "total_invested": 1912.79,
+  "dividend_history": [],
+  "last_updated": "2026-05-06 10:31:50"
+}
