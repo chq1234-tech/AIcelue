@@ -1,5 +1,8 @@
 # Data files
 dca_portfolio_data.json
+dca_price_cache.json
+dca_portfolio_data_backup_*.json
+stop_profit_history.json
 *.db
 
 # Python cache
@@ -7,11 +10,59 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Reports
+# Reports & outputs
 *.html
 report.json
 trade_data.json
+output*.txt
+_sp_output.txt
+run_log*.txt
+*.log
+*.err
 
 # OS
 .DS_Store
 Thumbs.db
+
+# Backup directories
+backup_*/
+archive/
+
+# Test & debug scripts
+test_*.py
+debug_*.py
+verify_*.py
+fix_*.py
+check_*.py
+quick_check.py
+restore_and_tag.py
+add_july_dca.py
+fix_july_dca.py
+
+# Old reports & generated data
+VA策略说明文档.docx
+年轻*综合分析报告.docx
+红利ETF定投分析报告.docx
+红利ETF资料汇总.*
+定投标的汇总.csv
+
+# Simple test scripts
+简单测试.py
+诊断工具.py
+
+# Duplicate launchers (use run_dca.bat or dca_web.py instead)
+SimpleDCA.bat
+RunDCA.bat
+DCA_Start.bat
+OneClick_DCA.bat
+auto_invest.bat
+run_dca.bat
+一键定投.bat
+定投.bat
+定投系统.bat
+定投系统_改进版.bat
+诊断.bat
+测试日历.bat
+test_simple.bat
+create_bat.py
+create_bat_simple.py
