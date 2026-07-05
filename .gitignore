@@ -24,7 +24,14 @@ run_log*.txt
 .DS_Store
 Thumbs.db
 
-# Backup directories
+# WorkBuddy workspace data
+.workbuddy/
+
+# Cached data
+data/
+miaoxiang/
+
+# Backup & archive directories
 backup_*/
 archive/
 
